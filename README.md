@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/AnxhelaMehmetaj/calcu.svg?branch=main)](https://travis-ci.com/AnxhelaMehmetaj/calcu)
